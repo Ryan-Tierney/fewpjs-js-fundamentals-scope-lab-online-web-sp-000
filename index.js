@@ -1,4 +1,4 @@
-let animal = "cat"
+let animal = "dog"
 
 function myAnimal() {
   return animal
@@ -6,7 +6,7 @@ function myAnimal() {
 
 function yourAnimal() {
 
-const animal = "dog"
+const animal = "cat"
   return animal
 }
 
